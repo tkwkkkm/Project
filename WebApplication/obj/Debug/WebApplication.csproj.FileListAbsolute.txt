@@ -1,0 +1,11 @@
+D:\SelfTest\WebApplication\WebApplication\bin\WebApplication.dll
+D:\SelfTest\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\SelfTest\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\SelfTest\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+D:\SelfTest\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\SelfTest\WebApplication\WebApplication\bin\ClassLibrary2.dll
+D:\SelfTest\WebApplication\WebApplication\bin\ClassLibrary2.pdb
+D:\SelfTest\WebApplication\WebApplication\bin\ClassLibrary1.dll
+D:\SelfTest\WebApplication\WebApplication\bin\ClassLibrary1.pdb
+D:\SelfTest\WebApplication\WebApplication\bin\ClassLibrary3.dll
+D:\SelfTest\WebApplication\WebApplication\bin\ClassLibrary3.pdb
