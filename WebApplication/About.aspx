@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Test 정보
+        TEST 정보
     </h2>
     <p>
         여기에 내용을 넣으십시오.
